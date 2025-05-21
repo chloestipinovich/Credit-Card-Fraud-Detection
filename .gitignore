@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment folders
+.env/
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# macOS specific files
+.DS_Store
+
+# Jupyter runtime files
+*.nbconvert.ipynb
